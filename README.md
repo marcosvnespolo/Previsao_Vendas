@@ -1,4 +1,4 @@
-# Previsao_Vendas
+# Previsao de Vendas
 - [x] Este projeto tem como objetivo prever as vendas com base em conjuntos de dados relacionados. Utiliza técnicas de aprendizado de máquina e engenharia de características para desenvolver modelos de previsão.
 
 ## Visão Geral
@@ -13,3 +13,9 @@
 - [x] Modelagem e previsão utilizando XGBRegressor e LinearRegression.
 - [x] Avaliação dos modelos com base na métrica RMSE (Root Mean Squared Error).
 - [x] Conclusões sobre o desempenho dos modelos e considerações adicionais.
+
+## Como Utilizar o Projeto
+- [x] Instale as bibliotecas necessárias listadas no arquivo de requisitos.
+- [x] Carregue os conjuntos de dados features.csv, stores.csv, test.csv e train.csv.
+- [x] Execute o código do projeto em uma plataforma Python.
+- [x] Analise os resultados obtidos, incluindo as métricas de avaliação e os modelos utilizados.
