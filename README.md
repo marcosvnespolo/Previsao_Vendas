@@ -16,6 +16,7 @@
 
 ## Como Utilizar o Projeto
 - [x] Instale as bibliotecas necessárias listadas no arquivo de requisitos.
-- [x] Carregue os conjuntos de dados features.csv, stores.csv, test.csv e train.csv.
+- [x] Carregue os conjuntos de dados features.csv, stores.csv, test.csv e train.csv, disponíveis no link abaixo:
+  https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
 - [x] Execute o código do projeto em uma plataforma Python.
 - [x] Analise os resultados obtidos, incluindo as métricas de avaliação e os modelos utilizados.
