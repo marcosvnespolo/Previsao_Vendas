@@ -1,5 +1,5 @@
 # Previsao de Vendas
-- [x] Este projeto tem como objetivo prever as vendas com base em conjuntos de dados relacionados. Utiliza técnicas de aprendizado de máquina e engenharia de características para desenvolver modelos de previsão.
+- [x] Este projeto tem como objetivo prever as vendas com base em conjuntos de dados relacionados. Utiliza técnicas de aprendizado de máquina e engenharia de variáveis para desenvolver modelos de previsão com diferentes algorítimos e comporar seu desempenho.
 
 ## Visão Geral
 - [x] Importação das bibliotecas necessárias, como pandas, numpy, matplotlib, seaborn, sklearn, xgboost e lightgbm.
